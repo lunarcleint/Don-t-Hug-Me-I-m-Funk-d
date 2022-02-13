@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pain.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leftucksleep instance 10000" x="2" y="2" width="1119" height="438" frameX="-11" frameY="-5" frameWidth="1134" frameHeight="443"/>
+	<SubTexture name="leftucksleep instance 10001" x="1123" y="2" width="1132" height="441" frameX="0" frameY="-2" frameWidth="1134" frameHeight="443"/>
+	<SubTexture name="leftucksleep instance 10002" x="2257" y="2" width="1133" height="443" frameX="0" frameY="0" frameWidth="1134" frameHeight="443"/>
+	<SubTexture name="leftucksleep instance 10003" x="3392" y="2" width="1128" height="441" frameX="-2" frameY="-2" frameWidth="1134" frameHeight="443"/>
+	<SubTexture name="leftucksleep instance 10004" x="4522" y="2" width="1126" height="441" frameX="-8" frameY="-2" frameWidth="1134" frameHeight="443"/>
+	<SubTexture name="lowuck instance 10000" x="5650" y="2" width="1163" height="421" frameX="-6" frameY="0" frameWidth="1169" frameHeight="423"/>
+	<SubTexture name="lowuck instance 10001" x="6815" y="2" width="1167" height="417" frameX="0" frameY="-6" frameWidth="1169" frameHeight="423"/>
+	<SubTexture name="lowuck instance 10002" x="2" y="447" width="1167" height="416" frameX="0" frameY="-7" frameWidth="1169" frameHeight="423"/>
+	<SubTexture name="lowuck instance 10003" x="1171" y="447" width="1166" height="418" frameX="-3" frameY="-5" frameWidth="1169" frameHeight="423"/>
+	<SubTexture name="lowuck instance 10004" x="2339" y="447" width="1167" height="417" frameX="-2" frameY="-6" frameWidth="1169" frameHeight="423"/>
+	<SubTexture name="quackbe instance 10000" x="3508" y="447" width="1137" height="427" frameX="-15" frameY="0" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10001" x="4647" y="447" width="1138" height="427" frameX="-13" frameY="-1" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10002" x="5787" y="447" width="1136" height="428" frameX="-15" frameY="0" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10003" x="6925" y="447" width="1139" height="427" frameX="-13" frameY="-1" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10004" x="2" y="877" width="1140" height="427" frameX="-12" frameY="-1" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10005" x="1144" y="877" width="1141" height="425" frameX="-10" frameY="-3" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10006" x="2287" y="877" width="1143" height="422" frameX="-7" frameY="-5" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10007" x="3432" y="877" width="1145" height="420" frameX="-5" frameY="-7" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10008" x="4579" y="877" width="1147" height="420" frameX="-4" frameY="-8" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10009" x="5728" y="877" width="1149" height="418" frameX="-2" frameY="-10" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10010" x="6879" y="877" width="1147" height="418" frameX="-2" frameY="-9" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10011" x="2" y="1306" width="1149" height="416" frameX="0" frameY="-11" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10012" x="1153" y="1306" width="1149" height="418" frameX="-2" frameY="-9" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10013" x="2304" y="1306" width="1150" height="416" frameX="-1" frameY="-11" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10014" x="3456" y="1306" width="1148" height="415" frameX="-1" frameY="-12" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10015" x="4606" y="1306" width="1148" height="416" frameX="-1" frameY="-11" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10016" x="5756" y="1306" width="1150" height="417" frameX="-1" frameY="-10" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10017" x="6908" y="1306" width="1148" height="419" frameX="-3" frameY="-8" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10018" x="2" y="1727" width="1145" height="420" frameX="-5" frameY="-7" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10019" x="1149" y="1727" width="1143" height="423" frameX="-7" frameY="-5" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10020" x="2294" y="1727" width="1140" height="426" frameX="-11" frameY="-2" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10021" x="3436" y="1727" width="1140" height="427" frameX="-12" frameY="-1" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10022" x="4578" y="1727" width="1140" height="426" frameX="-12" frameY="-2" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10023" x="5720" y="1727" width="1137" height="427" frameX="-14" frameY="0" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="quackbe instance 10024" x="6859" y="1727" width="1136" height="427" frameX="-15" frameY="0" frameWidth="1152" frameHeight="428"/>
+	<SubTexture name="rightuckballs man4 instance 10000" x="2" y="2156" width="1078" height="453" frameX="0" frameY="0" frameWidth="1080" frameHeight="454"/>
+	<SubTexture name="rightuckballs man4 instance 10001" x="1082" y="2156" width="1070" height="453" frameX="-8" frameY="-1" frameWidth="1080" frameHeight="454"/>
+	<SubTexture name="rightuckballs man4 instance 10002" x="2154" y="2156" width="1073" height="450" frameX="-5" frameY="-3" frameWidth="1080" frameHeight="454"/>
+	<SubTexture name="rightuckballs man4 instance 10003" x="3229" y="2156" width="1077" height="448" frameX="-3" frameY="-5" frameWidth="1080" frameHeight="454"/>
+	<SubTexture name="rightuckballs man4 instance 10004" x="4308" y="2156" width="1073" height="449" frameX="-7" frameY="-4" frameWidth="1080" frameHeight="454"/>
+	<SubTexture name="upduckhos instance 10000" x="5383" y="2156" width="1116" height="457" frameX="-4" frameY="0" frameWidth="1120" frameHeight="457"/>
+	<SubTexture name="upduckhos instance 10001" x="6501" y="2156" width="1117" height="455" frameX="-2" frameY="-2" frameWidth="1120" frameHeight="457"/>
+	<SubTexture name="upduckhos instance 10002" x="2" y="2615" width="1118" height="449" frameX="-1" frameY="-6" frameWidth="1120" frameHeight="457"/>
+	<SubTexture name="upduckhos instance 10003" x="1122" y="2615" width="1120" height="450" frameX="0" frameY="-5" frameWidth="1120" frameHeight="457"/>
+	<SubTexture name="upduckhos instance 10004" x="2244" y="2615" width="1114" height="451" frameX="-5" frameY="-5" frameWidth="1120" frameHeight="457"/>
+</TextureAtlas>

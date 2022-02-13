@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "ep5",
+		"player1": "bf-yellow",
+		"player2": "can",
+		"player3": null,
+		"events": [
+			[
+				4125,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				9825,
+				[
+					[
+						"Toggle Bf Characters",
+						"",
+						"true"
+					]
+				]
+			],
+			[
+				19125,
+				[
+					[
+						"Toggle Dad Characters",
+						"true",
+						"false"
+					]
+				]
+			],
+			[
+				22725,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				38325,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						"true"
+					]
+				]
+			],
+			[
+				47925,
+				[
+					[
+						"Toggle Dad Characters",
+						"",
+						"true"
+					]
+				]
+			],
+			[
+				51525,
+				[
+					[
+						"Toggle Bf Characters",
+						"",
+						"true"
+					]
+				]
+			],
+			[
+				71925,
+				[
+					[
+						"Toggle Dad Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				86325,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Toggle Dad Characters",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				108075,
+				[
+					[
+						"Toggle Bf Characters",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				124725,
+				[
+					[
+						"Toggle Dad Characters",
+						"false",
+						"true"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Healthy"
+	}
+}

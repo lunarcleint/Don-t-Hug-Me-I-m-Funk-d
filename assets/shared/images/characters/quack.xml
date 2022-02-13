@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="qack.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downduck instance 10000" x="0" y="0" width="341" height="407" frameX="-1" frameY="-5" frameWidth="342" frameHeight="414"/>
+	<SubTexture name="downduck instance 10001" x="341" y="0" width="341" height="407" frameX="-1" frameY="-5" frameWidth="342" frameHeight="414"/>
+	<SubTexture name="downduck instance 10002" x="682" y="0" width="341" height="413" frameX="0" frameY="-1" frameWidth="342" frameHeight="414"/>
+	<SubTexture name="downduck instance 10003" x="1023" y="0" width="341" height="414" frameX="0" frameY="0" frameWidth="342" frameHeight="414"/>
+	<SubTexture name="downduck instance 10004" x="1364" y="0" width="341" height="411" frameX="0" frameY="-2" frameWidth="342" frameHeight="414"/>
+	<SubTexture name="downmissduck instance 10000" x="1705" y="0" width="341" height="432" frameX="-1" frameY="-5" frameWidth="342" frameHeight="439"/>
+	<SubTexture name="downmissduck instance 10001" x="2046" y="0" width="341" height="432" frameX="-1" frameY="-5" frameWidth="342" frameHeight="439"/>
+	<SubTexture name="downmissduck instance 10002" x="2387" y="0" width="341" height="438" frameX="0" frameY="-1" frameWidth="342" frameHeight="439"/>
+	<SubTexture name="downmissduck instance 10003" x="2728" y="0" width="341" height="439" frameX="0" frameY="0" frameWidth="342" frameHeight="439"/>
+	<SubTexture name="downmissduck instance 10004" x="3069" y="0" width="341" height="436" frameX="0" frameY="-2" frameWidth="342" frameHeight="439"/>
+	<SubTexture name="he instance 10000" x="3410" y="0" width="369" height="429" frameX="0" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10001" x="0" y="439" width="366" height="429" frameX="-3" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10002" x="3410" y="0" width="369" height="429" frameX="0" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10003" x="366" y="439" width="367" height="428" frameX="-2" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10004" x="733" y="439" width="364" height="428" frameX="-5" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10005" x="366" y="439" width="367" height="428" frameX="-2" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10006" x="1097" y="439" width="355" height="425" frameX="-15" frameY="-2" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10007" x="1452" y="439" width="351" height="425" frameX="-19" frameY="-2" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10008" x="1097" y="439" width="355" height="425" frameX="-15" frameY="-2" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10009" x="1803" y="439" width="340" height="419" frameX="-31" frameY="-7" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10010" x="2143" y="439" width="337" height="419" frameX="-34" frameY="-7" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10011" x="1803" y="439" width="340" height="419" frameX="-31" frameY="-7" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10012" x="2480" y="439" width="338" height="418" frameX="-33" frameY="-8" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10013" x="2818" y="439" width="335" height="418" frameX="-36" frameY="-8" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10014" x="2480" y="439" width="338" height="418" frameX="-33" frameY="-8" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10015" x="3153" y="439" width="340" height="419" frameX="-31" frameY="-7" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10016" x="3493" y="439" width="337" height="419" frameX="-34" frameY="-7" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10017" x="3153" y="439" width="340" height="419" frameX="-31" frameY="-7" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10018" x="0" y="868" width="354" height="425" frameX="-16" frameY="-2" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10019" x="354" y="868" width="351" height="425" frameX="-19" frameY="-2" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10020" x="0" y="868" width="354" height="425" frameX="-16" frameY="-2" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10021" x="705" y="868" width="367" height="428" frameX="-2" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10022" x="1072" y="868" width="364" height="428" frameX="-5" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10023" x="705" y="868" width="367" height="428" frameX="-2" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="he instance 10024" x="3410" y="0" width="369" height="429" frameX="0" frameY="0" frameWidth="371" frameHeight="429"/>
+	<SubTexture name="leftuck instance 10000" x="1436" y="868" width="432" height="457" frameX="0" frameY="0" frameWidth="441" frameHeight="463"/>
+	<SubTexture name="leftuck instance 10001" x="1436" y="868" width="432" height="457" frameX="0" frameY="0" frameWidth="441" frameHeight="463"/>
+	<SubTexture name="leftuck instance 10002" x="1868" y="868" width="431" height="461" frameX="-10" frameY="0" frameWidth="441" frameHeight="463"/>
+	<SubTexture name="leftuck instance 10003" x="2299" y="868" width="427" height="462" frameX="-13" frameY="-1" frameWidth="441" frameHeight="463"/>
+	<SubTexture name="leftuck instance 10004" x="2726" y="868" width="431" height="461" frameX="-9" frameY="0" frameWidth="441" frameHeight="463"/>
+	<SubTexture name="leftuck instance 20000" x="3157" y="868" width="432" height="433" frameX="0" frameY="0" frameWidth="441" frameHeight="439"/>
+	<SubTexture name="leftuck instance 20001" x="3157" y="868" width="432" height="433" frameX="0" frameY="0" frameWidth="441" frameHeight="439"/>
+	<SubTexture name="leftuck instance 20002" x="3589" y="868" width="431" height="437" frameX="-10" frameY="0" frameWidth="441" frameHeight="439"/>
+	<SubTexture name="leftuck instance 20003" x="0" y="1330" width="427" height="438" frameX="-13" frameY="-1" frameWidth="441" frameHeight="439"/>
+	<SubTexture name="leftuck instance 20004" x="427" y="1330" width="431" height="437" frameX="-9" frameY="0" frameWidth="441" frameHeight="439"/>
+	<SubTexture name="rightfuck instance 10000" x="858" y="1330" width="294" height="434" frameX="-1" frameY="-5" frameWidth="298" frameHeight="441"/>
+	<SubTexture name="rightfuck instance 10001" x="1152" y="1330" width="297" height="434" frameX="-1" frameY="-5" frameWidth="298" frameHeight="441"/>
+	<SubTexture name="rightfuck instance 10002" x="1449" y="1330" width="279" height="439" frameX="-2" frameY="-2" frameWidth="298" frameHeight="441"/>
+	<SubTexture name="rightfuck instance 10003" x="1728" y="1330" width="280" height="440" frameX="-2" frameY="0" frameWidth="298" frameHeight="441"/>
+	<SubTexture name="rightfuck instance 10004" x="2008" y="1330" width="281" height="440" frameX="0" frameY="0" frameWidth="298" frameHeight="441"/>
+	<SubTexture name="rightmissduck instance 10000" x="2289" y="1330" width="294" height="458" frameX="-1" frameY="-6" frameWidth="298" frameHeight="466"/>
+	<SubTexture name="rightmissduck instance 10001" x="2583" y="1330" width="297" height="458" frameX="-1" frameY="-6" frameWidth="298" frameHeight="466"/>
+	<SubTexture name="rightmissduck instance 10002" x="2880" y="1330" width="279" height="464" frameX="-2" frameY="-2" frameWidth="298" frameHeight="466"/>
+	<SubTexture name="rightmissduck instance 10003" x="3159" y="1330" width="280" height="465" frameX="-2" frameY="0" frameWidth="298" frameHeight="466"/>
+	<SubTexture name="rightmissduck instance 10004" x="3439" y="1330" width="281" height="465" frameX="0" frameY="0" frameWidth="298" frameHeight="466"/>
+	<SubTexture name="up duck instance 10000" x="3720" y="1330" width="349" height="446" frameX="-21" frameY="0" frameWidth="370" frameHeight="446"/>
+	<SubTexture name="up duck instance 10001" x="0" y="1795" width="349" height="446" frameX="-21" frameY="0" frameWidth="370" frameHeight="446"/>
+	<SubTexture name="up duck instance 10002" x="349" y="1795" width="370" height="437" frameX="0" frameY="-7" frameWidth="370" frameHeight="446"/>
+	<SubTexture name="up duck instance 10003" x="719" y="1795" width="366" height="435" frameX="-4" frameY="-9" frameWidth="370" frameHeight="446"/>
+	<SubTexture name="up duck instance 10004" x="1085" y="1795" width="366" height="439" frameX="-4" frameY="-7" frameWidth="370" frameHeight="446"/>
+	<SubTexture name="up duckmiss instance 10000" x="1451" y="1795" width="349" height="472" frameX="-21" frameY="0" frameWidth="370" frameHeight="472"/>
+	<SubTexture name="up duckmiss instance 10001" x="1451" y="1795" width="349" height="472" frameX="-21" frameY="0" frameWidth="370" frameHeight="472"/>
+	<SubTexture name="up duckmiss instance 10002" x="1800" y="1795" width="370" height="462" frameX="0" frameY="-8" frameWidth="370" frameHeight="472"/>
+	<SubTexture name="up duckmiss instance 10003" x="2170" y="1795" width="366" height="460" frameX="-4" frameY="-10" frameWidth="370" frameHeight="472"/>
+	<SubTexture name="up duckmiss instance 10004" x="2536" y="1795" width="366" height="464" frameX="-4" frameY="-8" frameWidth="370" frameHeight="472"/>
+</TextureAtlas>

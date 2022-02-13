@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightyellow instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				376,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upyellow instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				11
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightyellowmiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				429,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftyellowmiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				429,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftyellow instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				376,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upyellowiss instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				375,
+				-26
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down yellow instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				375,
+				-20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "yellowmisslow instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				399,
+				18
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nutsmn instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yellow",
+	"position": [
+		71,
+		213
+	],
+	"healthicon": "yellow",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		215,
+		100
+	],
+	"camera_position": [
+		225,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1.075
+}

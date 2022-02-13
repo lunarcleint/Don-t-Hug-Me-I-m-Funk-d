@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-192,
+				11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftuck instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-193,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up duckmiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-183,
+				19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "rightmissduck instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				-6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "downmissduck instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "quackbe instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lowuck instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-143,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftucksleep instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upduckhos instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-191,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightuckballs man4 instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pain",
+	"position": [
+		-900,
+		360
+	],
+	"healthicon": "duck",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		112,
+		74
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bread.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bre instance 10000" x="0" y="0" width="373" height="206"/>
+	<SubTexture name="bre instance 10001" x="0" y="0" width="373" height="206"/>
+	<SubTexture name="bre instance 10002" x="373" y="0" width="373" height="206"/>
+	<SubTexture name="bre instance 10003" x="373" y="0" width="373" height="206"/>
+	<SubTexture name="bre instance 10004" x="746" y="0" width="373" height="206"/>
+	<SubTexture name="bre instance 10005" x="1119" y="0" width="373" height="206"/>
+	<SubTexture name="bre instance 10006" x="1492" y="0" width="373" height="203" frameX="0" frameY="-3" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="bre instance 10007" x="0" y="206" width="373" height="203" frameX="0" frameY="-3" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="bre instance 10008" x="373" y="206" width="373" height="198" frameX="0" frameY="-8" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="bre instance 10009" x="373" y="206" width="373" height="198" frameX="0" frameY="-8" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="bre instance 10010" x="746" y="206" width="373" height="197" frameX="0" frameY="-9" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="bre instance 10011" x="746" y="206" width="373" height="197" frameX="0" frameY="-9" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="bre instance 10012" x="1119" y="206" width="373" height="198" frameX="0" frameY="-8" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="bre instance 10013" x="1492" y="206" width="373" height="198" frameX="0" frameY="-8" frameWidth="373" frameHeight="206"/>
+	<SubTexture name="broe tap left instance 10000" x="0" y="409" width="373" height="206"/>
+	<SubTexture name="broe tap left instance 10001" x="0" y="409" width="373" height="206"/>
+	<SubTexture name="broe tap left instance 10002" x="373" y="409" width="373" height="206"/>
+	<SubTexture name="broe tap left instance 10003" x="373" y="409" width="373" height="206"/>
+	<SubTexture name="broe tap left instance 10004" x="746" y="409" width="373" height="206"/>
+	<SubTexture name="broetap right instance 10000" x="1119" y="409" width="373" height="206"/>left
+	<SubTexture name="broetap right instance 10001" x="1119" y="409" width="373" height="206"/>
+	<SubTexture name="broetap right instance 10002" x="1492" y="409" width="373" height="206"/>
+	<SubTexture name="broetap right instance 10003" x="1492" y="409" width="373" height="206"/>
+	<SubTexture name="broetap right instance 10004" x="0" y="615" width="373" height="206"/>
+</TextureAtlas>

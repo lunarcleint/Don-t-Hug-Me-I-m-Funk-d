@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rightfuck instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "downduck instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-63,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftuck instance 2"
+		},
+		{
+			"offsets": [
+				-62,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "leftuck instance 1"
+		},
+		{
+			"offsets": [
+				-115,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up duck instance 1"
+		},
+		{
+			"offsets": [
+				-115,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up duckmiss instance 1"
+		},
+		{
+			"offsets": [
+				-183,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "rightmissduck instance 1"
+		},
+		{
+			"offsets": [
+				-151,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "downmissduck instance 1"
+		},
+		{
+			"offsets": [
+				-124,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "he instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/quack",
+	"position": [
+		40,
+		210
+	],
+	"healthicon": "duck",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		112,
+		74
+	],
+	"camera_position": [
+		-90,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.05
+}
