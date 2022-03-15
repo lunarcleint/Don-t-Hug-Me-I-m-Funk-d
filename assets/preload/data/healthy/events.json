@@ -7,6 +7,26 @@
 		"player3": null,
 		"events": [
 			[
+				75,
+				[
+					[
+						"Play Animation",
+						"start",
+						"bf"
+					]
+				]
+			],
+			[
+				3225,
+				[
+					[
+						"Play Animation",
+						"start",
+						"bf2"
+					]
+				]
+			],
+			[
 				4125,
 				[
 					[
@@ -17,12 +37,22 @@
 				]
 			],
 			[
-				9825,
+				9525,
 				[
 					[
 						"Toggle Bf Characters",
 						"",
 						"true"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Alt Idle Animation",
+						"bf2",
+						"-alt"
 					]
 				]
 			],
@@ -37,11 +67,31 @@
 				]
 			],
 			[
+				19200,
+				[
+					[
+						"Alt Idle Animation",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
 				22725,
 				[
 					[
 						"Toggle Bf Characters",
 						"true",
+						""
+					]
+				]
+			],
+			[
+				27900,
+				[
+					[
+						"Alt Idle Animation",
+						"bf2",
 						""
 					]
 				]
@@ -97,6 +147,36 @@
 				]
 			],
 			[
+				106650,
+				[
+					[
+						"Set Zoom",
+						"1.1",
+						"2.3"
+					]
+				]
+			],
+			[
+				107546.25,
+				[
+					[
+						"Fade HealthBar In/Out",
+						"in",
+						"0.4"
+					]
+				]
+			],
+			[
+				107550,
+				[
+					[
+						"Fade In/Out",
+						"in",
+						"0.4"
+					]
+				]
+			],
+			[
 				108000,
 				[
 					[
@@ -113,6 +193,86 @@
 						"Toggle Bf Characters",
 						"false",
 						"true"
+					]
+				]
+			],
+			[
+				108226.875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tinman"
+					]
+				]
+			],
+			[
+				108232.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-duckdead"
+					]
+				]
+			],
+			[
+				108236.25,
+				[
+					[
+						"Change Stage",
+						"lab",
+						"dad"
+					]
+				]
+			],
+			[
+				108375,
+				[
+					[
+						"Reset Cam Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124275,
+				[
+					[
+						"Toggle Dad Characters",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				124350,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				124494.375,
+				[
+					[
+						"Fade HealthBar In/Out",
+						"out",
+						"0.4"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Fade In/Out",
+						"out",
+						"0.4"
 					]
 				]
 			],

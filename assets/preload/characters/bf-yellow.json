@@ -98,6 +98,17 @@
 			"fps": 24,
 			"name": "nutsmn instance 1",
 			"indices": []
+		},
+		{
+			"offsets": [
+				411,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "start",
+			"loop": false,
+			"name": "joeman55 instance"
 		}
 	],
 	"no_antialiasing": false,
@@ -106,7 +117,7 @@
 		71,
 		213
 	],
-	"healthicon": "yellow",
+	"healthicon": "yellowandduck",
 	"flip_x": true,
 	"healthbar_colors": [
 		255,

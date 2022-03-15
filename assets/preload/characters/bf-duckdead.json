@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				-192,
-				11
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "leftuck instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-193,
-				10
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "up duckmiss instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-183,
-				19
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "rightmissduck instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-138,
-				-6
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "downmissduck instance 1",
-			"indices": []
-		},
-		{
-			"loop": true,
 			"offsets": [
 				-120,
 				-10
 			],
+			"loop": true,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "quackbe instance",
-			"indices": []
+			"indices": [],
+			"name": "quackbe instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-104,
-				-19
+				-84,
+				-9
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "lowuck instance",
-			"indices": []
+			"indices": [],
+			"name": "lowuck instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-143,
-				-11
+				-133,
+				-1
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "leftucksleep instance",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftucksleep instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				3
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "upduckhos instance",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "upduckhos instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-191,
-				10
+				-161,
+				8
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "rightuckballs man4 instance",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightuckballs man4 instance"
+		},
+		{
+			"offsets": [
+				-84,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "lowuck instance"
+		},
+		{
+			"offsets": [
+				-133,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "leftucksleep instance"
+		},
+		{
+			"offsets": [
+				-150,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upduckhos instance"
+		},
+		{
+			"offsets": [
+				-161,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rightuckballs man4 instance"
 		}
 	],
 	"no_antialiasing": false,
@@ -115,7 +115,7 @@
 	],
 	"camera_position": [
 		-90,
-		0
+		-20
 	],
 	"sing_duration": 4,
 	"scale": 1

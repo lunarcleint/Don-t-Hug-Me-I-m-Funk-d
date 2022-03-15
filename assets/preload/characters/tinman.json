@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-672,
 				200
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "canboy4 instance"
+			"fps": 24,
+			"name": "canboy4 instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-597,
 				232
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "leftcanner instance"
+			"fps": 24,
+			"name": "leftcanner instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-751,
 				222
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "rightmmn instance"
+			"fps": 24,
+			"name": "rightmmn instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-688,
 				225
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up  instance"
+			"fps": 24,
+			"name": "up  instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-743,
 				200
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "nuts2 instance"
+			"fps": 24,
+			"name": "nuts2 instance",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,16 +62,16 @@
 		-550,
 		300
 	],
-	"healthicon": "both",
+	"healthicon": "cant",
 	"flip_x": false,
 	"healthbar_colors": [
-		215,
-		85,
-		102
+		126,
+		156,
+		204
 	],
 	"camera_position": [
-		450,
-		-250
+		480,
+		-300
 	],
 	"sing_duration": 4,
 	"scale": 0.95

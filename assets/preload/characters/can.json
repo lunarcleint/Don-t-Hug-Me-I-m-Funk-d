@@ -62,7 +62,7 @@
 		0,
 		0
 	],
-	"healthicon": "can",
+	"healthicon": "bothcanmeat",
 	"flip_x": false,
 	"healthbar_colors": [
 		173,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		460,
-		180
+		160
 	],
 	"sing_duration": 4,
 	"scale": 0.95
